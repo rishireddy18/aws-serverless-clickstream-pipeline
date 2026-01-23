@@ -1,0 +1,9 @@
+region = "us-east-2"
+
+raw_bucket_name       = "assign1-raw-REPLACE"
+processed_bucket_name = "assign1-processed-REPLACE"
+athena_bucket_name    = "assign1-athena-REPLACE"
+
+glue_database_name = "assign1_db_REPLACE"
+firehose_name      = "assign1-firehose-REPLACE"
+lambda_name        = "assign1-transform-REPLACE"

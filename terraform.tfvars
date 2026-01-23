@@ -1,0 +1,7 @@
+region         = "us-east-2"
+my_ip          = "10.89.76.93/32"
+state_bucket   = "tfstate-rishik921-20250921"
+dynamodb_table = "terraform-locks"
+state_key      = "assignment1/terraform.tfstate"
+aws_profile    = ""
+project        = "assign1"
